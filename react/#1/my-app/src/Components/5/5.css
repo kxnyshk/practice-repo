@@ -1,0 +1,15 @@
+.Div-5{
+    padding-top: 100px;
+    padding-left: 10px;
+    padding-right: 33%;
+}
+
+.Boxes{
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    border: 3px solid rgb(20, 20, 20);
+    display: inline-block;
+}
